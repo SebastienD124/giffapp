@@ -1,4 +1,4 @@
-const API_KEY = '5wgt1dseqr1tHAPo9VjrV4Hq9CKD1geO';
+const API_KEY = 'YOUR_API_KEY';
 const searchForm = document.getElementById('search-form');
 const searchHistory = document.getElementById('search-history');
 const gifGrid = document.getElementById('gif-grid');
